@@ -1,0 +1,31 @@
+*{
+    font-family:inherit;
+}
+.container{
+    border:#002805 2px solid;
+    background: #02550C;
+    color:#fff;
+    margin:auto;
+}
+th,td{
+    border:#002805 2px solid;
+    
+}
+a{
+       color:#fff;
+       font-size: 18px
+}
+h1{
+    margin:auto;
+    text-align: center;
+}
+.dos a{
+    text-align: center;
+    font-size: 25px;
+    margin-left: 90px;
+    color:#000;
+}
+body{
+    background: #CEE7BA ;
+}
+
